@@ -43,3 +43,5 @@ function setActiveNav() {
 }
 window.addEventListener('scroll', setActiveNav);
 window.addEventListener('load', setActiveNav);
+
+// hello section scroll button
